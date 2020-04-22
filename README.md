@@ -1,4 +1,8 @@
-﻿# ReactNativeVectorFirebaseStarterKit
+﻿# ReactNativeVectorFirebaseStarterKit - Template
+ 
+**Donate for more Templates**
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/AnthonyElHaddad?locale.x=en_US)
+
 
 **Packages**
 * react-native-firebase, can be found [here](https://rnfirebase.io/ "Firebase")
